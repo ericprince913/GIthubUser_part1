@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Github-User\'s</string>
+    <string name="nama_user">Nama User</string>
+    <string name="nama_panggilan">Username</string>
+    <string name="foto_user">Avatar</string>
+
+    <string-array name="Name">
+        <item>Oscar Charles</item>
+        <item>Amar Shyla</item>
+        <item>James Miller</item>
+        <item>David Jones</item>
+        <item>Charles Evans</item>
+        <item>Roco Samesh</item>
+        <item>Kim sajang</item>
+        <item>Adi nugroho</item>
+        <item>Muhammad Ilham</item>
+        <item>Roy Pangaribuan</item>
+    </string-array>
+
+    <string-array name="Username">
+        <item>OCharSC</item>
+        <item>ShyAM</item>
+        <item>JamesMill</item>
+        <item>DAjones</item>
+        <item>LessEvan</item>
+        <item>SamesRoco</item>
+        <item>Aigoo</item>
+        <item>NugrohoAdi</item>
+        <item>MuhIlham</item>
+        <item>Pangaribuan</item>
+    </string-array>
+
+    <string-array name="Avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </string-array>
+
+    <string-array name="Follower">
+        <item>110</item>
+        <item>43</item>
+        <item>223</item>
+        <item>541</item>
+        <item>154</item>
+        <item>2300</item>
+        <item>1988</item>
+        <item>400</item>
+        <item>944</item>
+        <item>4102</item>
+    </string-array>
+
+    <string-array name="Following">
+        <item>12</item>
+        <item>100</item>
+        <item>44</item>
+        <item>992</item>
+        <item>334</item>
+        <item>1021</item>
+        <item>3</item>
+        <item>2100</item>
+        <item>685</item>
+        <item>882</item>
+    </string-array>
+
+    <string-array name="Company">
+        <item>XY company</item>
+        <item>GoFoodie</item>
+        <item>SleeppyBoxc</item>
+        <item>BottsforLife</item>
+        <item>JackSM</item>
+        <item>AudioU</item>
+        <item>UL entertainment</item>
+        <item>LovePaper</item>
+        <item>Spark</item>
+        <item>UBI Technology</item>
+    </string-array>
+
+    <string-array name="Location">
+        <item>Canada</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>South Africa</item>
+        <item>Rusia</item>
+        <item>China</item>
+        <item>South Korea</item>
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+    </string-array>
+
+    <string-array name="Repository">
+        <item>12</item>
+        <item>4</item>
+        <item>49</item>
+        <item>102</item>
+        <item>64</item>
+        <item>10</item>
+        <item>192</item>
+        <item>221</item>
+        <item>53</item>
+        <item>123</item>
+    </string-array>
+</resources>
